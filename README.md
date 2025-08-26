@@ -16,7 +16,7 @@ In this course, I learned the foundations of **data modeling and reporting in Po
 - Building clear **visual reports** with tables, matrices and KPIs  
 
 ### 🏆 Final Project: Seven Sages Brewing Company  
-- Built a complete **data model & Power BI report** for the CFO of SSBC.  
+- Built a complete **data model & Power BI report** for the CFO of Seven Sages Brewing Company (SSBC).  
 - Wrote 6 key measures using DAX: Sales, Cost of Sales and Gross Profit Margin (in USD & CAD).  
 - Enabled analysis of **best-selling and most profitable beers**.  
 
