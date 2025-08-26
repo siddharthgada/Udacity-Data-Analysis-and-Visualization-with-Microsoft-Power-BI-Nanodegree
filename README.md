@@ -4,7 +4,7 @@ This repository contains my work for the **Data Analysis and Visualization with 
 
 ---
 
-## 📚 Course 1 — Preparing and Modeling Data  
+## 📚 Course 1 — Preparing and Modeling Data with Power BI
 
 In this course, I learned the foundations of **data modeling and reporting in Power BI**, including:  
 
