@@ -20,11 +20,11 @@ In this course, I learned the foundations of **data modeling and reporting in Po
 - Wrote 6 key measures using DAX: Sales, Cost of Sales and Gross Profit Margin (in USD & CAD).  
 - Enabled analysis of **best-selling and most profitable beers**.  
 
----
-
 ## 🛠 Skills from Course 1  
 - Power Query for data cleaning & transformation  
 - Fact/dimension modeling & relationships  
 - DAX for business calculations  
 - Time intelligence with custom date tables  
 - Report design best practices  
+
+---
