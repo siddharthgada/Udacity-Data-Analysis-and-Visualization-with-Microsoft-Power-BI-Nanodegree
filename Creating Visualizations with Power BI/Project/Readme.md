@@ -2,7 +2,7 @@
 
 ## 📊 Project Overview
 This project was developed as part of my Data Analysis and Visualization using Microsoft Power BI Nanodegree with Udacity.  
-The goal was to design an interactive, branded Power BI report for **Waggle**, answering key business questions from the CEO and CMO while showcasing a variety of visualizations, slicers and advanced report features.  
+The goal was to design an interactive, branded Power BI report for **Waggle** (a company that creates innovative pet activity trackers [Lapdog and Lapcat devices]), answering key business questions from the CEO and CMO while showcasing a variety of visualizations, slicers and advanced report features.  
 
 The report integrates multiple datasets (devices, pets, families, tracking and date) and provides actionable insights into **Lapdog vs. Lapcat device performance**, **pet demographics** and **family-level details**.  
 
