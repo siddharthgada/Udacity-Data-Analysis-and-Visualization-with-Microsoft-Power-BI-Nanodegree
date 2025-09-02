@@ -2,7 +2,7 @@
 
 This repository contains my **practice work** from Course 3 of the Nanodegree program. The files here include exercises and demo tabs that helped me build confidence with advanced Power BI concepts before completing the final project (Waggle Report).
 
-## 📂 Project Contents
+## 📂 Folder Contents
 - **Demos_Exercises_File.pdf** — A consolidated export of the demo dashboards and exercise reports created during the course.
 - **Demos_Exercises_File.pbix** — Contain the live interactive versions of the practice dashboards.
 
