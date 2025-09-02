@@ -56,3 +56,5 @@ In this course, I focused on **building impactful, interactive and branded Power
 - Advanced interactivity with slicers, bookmarks and buttons  
 - Drill-through analysis and enhanced tooltips  
 - Designing intuitive and accessible report layouts 
+
+---
