@@ -66,4 +66,11 @@ The report integrates multiple datasets (devices, pets, families, tracking and d
 
 ---
 
+## 📂 Project Structure
+- `Waggle_Analytics_Report.pbix` → Interactive Power BI report  
+- `Waggle_Analytics_Report.pdf` → Static PDF export of the report  
+- `Waggle_Theme.json` → Custom theme with Waggle branding
+
+---
+
 🚀 This project demonstrates how Power BI can bring **customer, pet and device data together** into one cohesive, interactive report for business decision-making.
