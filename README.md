@@ -4,6 +4,10 @@ This repository contains my work for the **Data Analysis and Visualization with 
 
 ---
 
+## 📚 Course 1 — Introduction to Nanodegree program and Udacity
+
+---
+
 ## 📚 Course 2 — Preparing and Modeling Data with Power BI
 
 In this course, I learned the foundations of **data modeling and reporting in Power BI**, including:  
@@ -58,3 +62,28 @@ In this course, I focused on **building impactful, interactive and branded Power
 - Designing intuitive and accessible report layouts 
 
 ---
+
+## 📚 Course 4 — Advanced Data Analysis with Power BI
+In this course, I focused on applying advanced analytics techniques and building structured data models in Power BI, including:
+
+- **Defining business problems and constructing analytical questions**  
+- **Retrieving, cleaning, and transforming data** using Power Query and the M language  
+- Writing custom **DAX formulas** to create calculated measures, columns, and tables  
+- Performing **linear regressions, correlation analysis, and advanced analytics**  
+- Building **structured data models** with relationships for efficient analysis  
+- Creating **advanced visualizations** to analyze and present information  
+- Designing **interactive dashboards** with slicers, drill-throughs, and bookmarks  
+
+### 🏆 Final Project: Market Analysis & Targeted Marketing Dashboard
+- Built an **interactive Power BI dashboard** for a national clothing chain to support targeted marketing campaigns  
+- Analyzed **customer sales, income, demographics, and product trends**  
+- Applied **regression modeling** to predict customer income and **segmentation** to group customers by income and age  
+- Designed visuals including **scatter plots, recommendation tables, and geographic maps/heat maps**  
+- Recommended **product targeting strategies** for Shirts, Sweaters, and Leather Bags based on income and spending patterns  
+
+### 🛠 Skills from Course 4
+- **Full analytics workflow**: problem definition → data retrieval → cleaning → analysis → visualization → conclusions  
+- **Power Query** for data preparation and transformation  
+- **DAX** to measure, analyze, and understand business data  
+- **Advanced visualizations** for actionable insights  
+- Designing **interactive and intuitive dashboards** for business decision-making  
