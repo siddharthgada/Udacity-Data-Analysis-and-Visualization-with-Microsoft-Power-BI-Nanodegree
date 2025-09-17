@@ -25,4 +25,4 @@ These exercises served as guided practice to reinforce:
 They directly supported the skills needed to complete the **Waggle final project**, where all concepts were applied in a real-world business scenario.
 
 ---
-🔗 For the **final project (Waggle Report)**, check out my dedicated repository: [https://github.com/siddharthgada/Udacity-Data-Analysis-and-Visualization-with-Microsoft-Power-BI-Nanodegree/tree/main/Creating%20Visualizations%20with%20Power%20BI/Project]
+🔗 For the **final project (Waggle Report)**, check out my dedicated folder for the project: [https://github.com/siddharthgada/Udacity-Data-Analysis-and-Visualization-with-Microsoft-Power-BI-Nanodegree/tree/main/Creating%20Visualizations%20with%20Power%20BI/Project]
