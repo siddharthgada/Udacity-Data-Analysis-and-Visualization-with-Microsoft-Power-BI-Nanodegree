@@ -43,6 +43,7 @@ This analysis supported the business requirement to **re-engage lost customers**
 - `Market_Analysis_Report.pbix` → Interactive Power BI Visuals for Analysis  
 - `Market_Analysis_Report.pdf` → Static PDF export of the dashboard
 - `Market_Analysis_Summary_Report.docx` → Static Word Document with a summary of the findings
+- `Data` folder → Folder with all the data used to build visuals
   
 ---
 
