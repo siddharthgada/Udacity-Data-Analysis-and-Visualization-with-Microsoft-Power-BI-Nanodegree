@@ -6,7 +6,7 @@ This repository contains my practice work from **Course 4** of the **Nanodegree 
 
 ## 📂 Folder Contents
 - `Exercises_File.pbix` — Contains the live interactive versions of the practice dashboards.  
-- `Exercises_File.pdf` — A consolidated export of demo dashboards and exercise reports created during the course.  
+- `Exercises_File.pdf` — A consolidated export of exercise reports and visuals created during the course.  
 
 ---
 
